@@ -7,4 +7,8 @@ public class Main {
         System.out.println("Dad and Mom isn't true");
         System.out.println("What is true?");
     }
+    
+    public static void another() { 
+        System.out.println("It's all trash");
+    }
 }
