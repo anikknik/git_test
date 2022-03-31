@@ -9,6 +9,6 @@ public class Main {
     }
     
     public static void another() { 
-        System.out.println("It's all trash");
+        System.out.println("It's really conflict");
     }
 }
